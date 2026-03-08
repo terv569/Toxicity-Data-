@@ -166,4 +166,4 @@ The notebook serves as both a practical implementation and a template for simila
 
 ---
 
-**Note**: This project is for research and educational purposes. Always validate predictions with experimental data for regulatory or safety-critical applications.
+
